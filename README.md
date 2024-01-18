@@ -14,8 +14,6 @@ HeyThere is a delightful chat application developed in Java Swing for the graphi
   - [Installation](#installation)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features 🌟
 
