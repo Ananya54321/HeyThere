@@ -4,6 +4,8 @@
 
 HeyThere is a delightful chat application developed in Java Swing for the graphical user interface (GUI) and socket programming for communication. This application allows users to exchange messages in a chat-like interface.
 
+---
+
 ## Table of Contents
 
 - [Features](#features)
